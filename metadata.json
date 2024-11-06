@@ -1,7 +1,7 @@
 {
-  "name": "cryptoconsole",
-  "website": "https://github.com/stealeruv",
-  "description": "Nodes and testnet",
+  "name": "Node Verifier",
+  "website": "https://github.com/NodeVerifier",
+  "description": "Nodes Tester",
   "logo": "https://raw.githubusercontent.com/stealeruv/ChainbaseMetadata/main/console.png",
   "twitter": "https://x.com/cryptoconsol"
 }
